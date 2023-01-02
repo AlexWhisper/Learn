@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca018d3b-bcf4-4e89-8132-2a616170fc65" name="Changes" comment="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/encap/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/encap/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/pack/Encapsulation01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package1/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/extend_/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/extend_/exercise/ExtendsExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/extend_/exercise/ExtendsExercise03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/extend_/graduate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/extend_/pupile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/extend_/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Homework14.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Homework14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,7 @@
       <recent name="test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AccountTest">
+  <component name="RunManager" selected="Application.com.alex.extend_.exercise.test">
     <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.alex.encap.AccountTest" />
       <module name="Learn" />
@@ -88,32 +86,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homeword13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Homeword13" />
-      <module name="Learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Homework07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Homework07" />
-      <module name="Learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Homework14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.Homework14" />
       <module name="Learn" />
@@ -127,13 +99,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.alex.extend_.exercise.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.extend_.exercise.test" />
+      <module name="Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alex.extend_.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.extend_.test" />
+      <module name="Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alex.extend_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.alex.extend_.exercise.test" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.AccountTest" />
         <item itemvalue="Application.Encapsulation01" />
         <item itemvalue="Application.Homework14" />
-        <item itemvalue="Application.Homeword13" />
-        <item itemvalue="Application.Homework07" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +148,7 @@
       <workItem from="1672357069599" duration="3645000" />
       <workItem from="1672370699876" duration="12939000" />
       <workItem from="1672457561546" duration="35826000" />
-      <workItem from="1672616909493" duration="10455000" />
+      <workItem from="1672616909493" duration="19741000" />
     </task>
     <task id="LOCAL-00001" summary="Homework03.java">
       <created>1672568455193</created>
@@ -166,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672580386340</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
+      <created>1672644252148</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672644252148</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
