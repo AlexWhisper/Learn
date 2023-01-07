@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca018d3b-bcf4-4e89-8132-2a616170fc65" name="Changes" comment="&lt;feat&gt;(&lt;location&gt;): &lt;2023/1/2/22:11&gt;">
+      <change afterPath="$PROJECT_DIR$/com/alex/override/OverrideExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JWpPWiXS9yk9oPrfuik3jbitSH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "js.buildTools.gulp.gulp_package_dir": "",
+    "last_opened_file_path": "D:/Project/Java/springboot-vue-bms",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OverrideExercise">
+    <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.encap.AccountTest" />
+      <module name="Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alex.encap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Encapsulation01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.pack.Encapsulation01" />
+      <module name="Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alex.pack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OverrideExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.override.OverrideExercise" />
+      <module name="Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alex.override.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.alex.extend_.exercise.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.extend_.exercise.test" />
+      <module name="Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alex.extend_.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.extend_.test" />
+      <module name="Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alex.extend_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OverrideExercise" />
+        <item itemvalue="Application.com.alex.extend_.exercise.test" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.AccountTest" />
+        <item itemvalue="Application.Encapsulation01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca018d3b-bcf4-4e89-8132-2a616170fc65" name="Changes" comment="" />
+      <created>1672203671468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672203671468</updated>
+      <workItem from="1672203673231" duration="5558000" />
+      <workItem from="1672306779058" duration="4062000" />
+      <workItem from="1672357069599" duration="3645000" />
+      <workItem from="1672370699876" duration="12939000" />
+      <workItem from="1672457561546" duration="35826000" />
+      <workItem from="1672616909493" duration="22762000" />
+      <workItem from="1672987405362" duration="1704000" />
+    </task>
+    <task id="LOCAL-00001" summary="Homework03.java">
+      <created>1672568455193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672568455193</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
+      <created>1672580386340</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672580386340</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
+      <created>1672644252148</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672644252148</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&lt;feat&gt;(&lt;location&gt;): &lt;2023/1/2/22:11&gt;">
+      <created>1672668668506</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672668668506</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="18-19Book-updateprice" />
+    <MESSAGE value="Homework03.java" />
+    <MESSAGE value="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;" />
+    <MESSAGE value="&lt;feat&gt;(&lt;location&gt;): &lt;2023/1/2/22:11&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&lt;feat&gt;(&lt;location&gt;): &lt;2023/1/2/22:11&gt;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
