@@ -19,6 +19,16 @@ public class HomeWork01 {
         for (int i = 0; i < p.length; i++) {
             System.out.println(p[i].toString());
         }
+
+        //向上转型
+        Person alex=new Student("alex",20,"学生");
+        alex.run();
+        alex.eat();
+
+        Student s1=(Student) alex;
+        s1.study();
+        s1.run();
+        s1.eat();
     }
 }
 class Person{
@@ -63,5 +73,23 @@ class Person{
                 ", age=" + age +
                 ", job='" + job + '\'' +
                 '}';
+    }
+    public void run(){
+        System.out.println("Person的run()方法");
+    }
+    public void eat(){
+        System.out.println("Person的eat()方法");
+    }
+
+}
+class Student extends Person{
+    public Student(String name, int age, String job) {
+        super(name, age, job);
+    }
+    public void run(){
+        System.out.println("Student的run()方法被调用");
+    }
+    public void study(){
+        System.out.println("Student的study()方法");
     }
 }

@@ -5,24 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca018d3b-bcf4-4e89-8132-2a616170fc65" name="Changes" comment="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
-      <change afterPath="$PROJECT_DIR$/com/alex/exercise01/HomeWork01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/exercise01/Homework02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/exercise01/Homework03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/exercise01/Homework04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/exercise01/Homework05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/exercise01/Homework06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/exercise01/Homework07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/exercise01/Homework08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/exercise01/Homework09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/exercise01/Homework10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/smallchange/SmallChangeSys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/smallchange/oop/SmallChangeSysApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/smallchange/oop/SmallChangeSysOOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/exercise01/Homework11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/exercise01/Homework13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/exercise01/Homework14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/alex/Poly01_/equals_/EqualsExercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/Poly01_/equals_/EqualsExercise01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/Poly01_/equals_/EqualsExercise01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/Poly01_/equals_/EqualsExercise01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/Poly01_/equals_/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/Poly01_/equals_/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/alex/exercise01/HomeWork01.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/exercise01/HomeWork01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,22 +77,9 @@
       <recent name="test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Homework10">
+  <component name="RunManager" selected="Application.Homework13">
     <configuration name="HomeWork01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.alex.exercise01.HomeWork01" />
-      <module name="Learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.alex.exercise01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Homework03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.exercise01.Homework03" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
@@ -155,13 +130,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Homework13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.exercise01.Homework13" />
+      <module name="Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alex.exercise01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Homework13" />
+        <item itemvalue="Application.HomeWork01" />
         <item itemvalue="Application.Homework10" />
         <item itemvalue="Application.Homework05" />
         <item itemvalue="Application.Homework04" />
-        <item itemvalue="Application.Homework03" />
-        <item itemvalue="Application.HomeWork01" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +168,7 @@
       <workItem from="1672457561546" duration="35826000" />
       <workItem from="1672616909493" duration="22762000" />
       <workItem from="1672987405362" duration="40275000" />
-      <workItem from="1673179112877" duration="11573000" />
+      <workItem from="1673179112877" duration="24543000" />
     </task>
     <task id="LOCAL-00001" summary="Homework03.java">
       <created>1672568455193</created>
@@ -224,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673099212409</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
+      <created>1673232262299</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673232262299</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
