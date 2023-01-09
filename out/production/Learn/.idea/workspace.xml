@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca018d3b-bcf4-4e89-8132-2a616170fc65" name="Changes" comment="&lt;feat&gt;(&lt;location&gt;): &lt;2023/1/2/22:11&gt;">
-      <change afterPath="$PROJECT_DIR$/com/alex/override/OverrideExercise.java" afterDir="false" />
+    <list default="true" id="ca018d3b-bcf4-4e89-8132-2a616170fc65" name="Changes" comment="&lt;feat&gt;(&lt;location&gt;): &lt;2023/1/7/22:11&gt;">
+      <change afterPath="$PROJECT_DIR$/com/alex/exercise01/HomeWork01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/smallchange/SmallChangeSys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/smallchange/oop/SmallChangeSysApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/smallchange/oop/SmallChangeSysOOP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/alex/Poly01_/equals_/EqualsExercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/Poly01_/equals_/EqualsExercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/Poly01_/equals_/EqualsExercise01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/Poly01_/equals_/EqualsExercise01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/Poly01_/equals_/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/Poly01_/equals_/Person.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +29,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4deb6a65-3285-4b1c-88a7-36aa41039335" />
+        <option name="url" value="https://github.com/AlexWhisper/Learn.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -34,39 +53,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "js.buildTools.gulp.gulp_package_dir": "",
-    "last_opened_file_path": "D:/Project/Java/springboot-vue-bms",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;js.buildTools.gulp.gulp_package_dir&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Project/Java/springboot-vue-bms&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;debugger.stepping&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OverrideExercise">
-    <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.encap.AccountTest" />
+  <component name="RunManager" selected="Application.HomeWork01">
+    <configuration name="EqualsExercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.Poly01_.equals_.EqualsExercise01" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.encap.*" />
+          <option name="PATTERN" value="com.alex.Poly01_.equals_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Encapsulation01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.pack.Encapsulation01" />
+    <configuration name="HomeWork01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.exercise01.HomeWork01" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.pack.*" />
+          <option name="PATTERN" value="com.alex.exercise01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverrideExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.override.OverrideExercise" />
+    <configuration name="PloyParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.Poly01_.PolyParmeter.PloyParameter" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.override.*" />
+          <option name="PATTERN" value="com.alex.Poly01_.PolyParmeter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.alex.extend_.exercise.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.extend_.exercise.test" />
+    <configuration name="SmallChangeSys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.smallchange.SmallChangeSys" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.extend_.exercise.*" />
+          <option name="PATTERN" value="com.alex.smallchange.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.extend_.test" />
+    <configuration name="SmallChangeSysApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.smallchange.oop.SmallChangeSysApp" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.extend_.*" />
+          <option name="PATTERN" value="com.alex.smallchange.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OverrideExercise" />
-        <item itemvalue="Application.com.alex.extend_.exercise.test" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.AccountTest" />
-        <item itemvalue="Application.Encapsulation01" />
+        <item itemvalue="Application.HomeWork01" />
+        <item itemvalue="Application.SmallChangeSysApp" />
+        <item itemvalue="Application.SmallChangeSys" />
+        <item itemvalue="Application.EqualsExercise01" />
+        <item itemvalue="Application.PloyParameter" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +169,8 @@
       <workItem from="1672370699876" duration="12939000" />
       <workItem from="1672457561546" duration="35826000" />
       <workItem from="1672616909493" duration="22762000" />
-      <workItem from="1672987405362" duration="1704000" />
+      <workItem from="1672987405362" duration="40275000" />
+      <workItem from="1673179112877" duration="777000" />
     </task>
     <task id="LOCAL-00001" summary="Homework03.java">
       <created>1672568455193</created>
@@ -180,7 +200,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672668668506</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&lt;feat&gt;(&lt;location&gt;): &lt;2023/1/7/22:11&gt;">
+      <created>1673099129746</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673099129746</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&lt;feat&gt;(&lt;location&gt;): &lt;2023/1/7/22:11&gt;">
+      <created>1673099212409</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673099212409</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +236,8 @@
     <MESSAGE value="Homework03.java" />
     <MESSAGE value="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;" />
     <MESSAGE value="&lt;feat&gt;(&lt;location&gt;): &lt;2023/1/2/22:11&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&lt;feat&gt;(&lt;location&gt;): &lt;2023/1/2/22:11&gt;" />
+    <MESSAGE value="&lt;feat&gt;(&lt;location&gt;): &lt;2023/1/7/22:11&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&lt;feat&gt;(&lt;location&gt;): &lt;2023/1/7/22:11&gt;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

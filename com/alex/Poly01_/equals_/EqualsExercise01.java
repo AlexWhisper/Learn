@@ -5,7 +5,8 @@ public class EqualsExercise01 {
         Person p1 = new Person("Alex",19);
         Person p2 = new Person("Alex",19);
 
-        System.out.println(p1.equals(p2));
+//        System.out.println(p1.equals(p2));
+        System.out.println(p1.toString());
     }
 }
 
