@@ -8,7 +8,7 @@ public class Homework11 {
             Person p=new Student();
             可以调用run()，eat()  //可以调用的方法看编译类型
             调用run()会调用Student的重写后的run()方法，
-    向下转型：子类引用 指向一个 指向子类应用的父类应用
+    向下转型：把一个指向子类对象的父类引用，转成指向子类对象的子类引用
             子类类型 引用名=(子类类型)父类引用
             Student p1=(Student)p //可以调用run（）study（）eat（）
 

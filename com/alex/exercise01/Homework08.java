@@ -2,10 +2,23 @@ package com.alex.exercise01;
 
 public class Homework08 {
     public static void main(String[] args) {
+        CheckingAccount ck1 = new CheckingAccount(1000);
+        ck1.deposit(100);
+        System.out.println(ck1.getBalance());
+        ck1.withdraw(100);
+        System.out.println(ck1.getBalance());
 
+        SavingAccount sa = new SavingAccount(100);
+        sa.deposit(100);
+        sa.deposit(100);
+        sa.deposit(100);
+        sa.deposit(100);
+        sa.withdraw(100);
+        System.out.println(sa.getBalance());
     }
 }
-class BankAccount{
+
+class BankAccount {
     private double balance;
 
     public double getBalance() {
@@ -16,18 +29,21 @@ class BankAccount{
         this.balance = balance;
     }
 
-    public BankAccount(double initalBalance){
-        this.balance=initalBalance;
+    public BankAccount(double initalBalance) {
+        this.balance = initalBalance;
     }
-    public void deposit(double amount){
-        balance+=amount;
+
+    public void deposit(double amount) {
+        balance += amount;
     }
-    public void withdraw(double amount){
-        balance-=amount;
+
+    public void withdraw(double amount) {
+        balance -= amount;
     }
 
 }
-class CheckingAccount extends BankAccount{
+
+class CheckingAccount extends BankAccount {
 
 
     public CheckingAccount(double initalBalance) {
@@ -36,32 +52,49 @@ class CheckingAccount extends BankAccount{
 
     @Override
     public void deposit(double amount) {
-        super.deposit(amount);
-        System.out.println("当前余额"+super.getBalance());
-        super.setBalance(super.getBalance()-1);
-        System.out.println("存款成功，收取手续费1元，剩余余额"+super.getBalance());
+        super.deposit(amount - 1);
+
     }
 
     @Override
     public void withdraw(double amount) {
-        System.out.println("当前余额"+super.getBalance());
-        super.withdraw(amount);
-        System.out.println("取款成功，手续费1元，当前余额"+super.getBalance());
+
+        super.withdraw(amount + 1);
+
     }
 }
 
-class SavingAccount extends BankAccount{
-    private int freetimes=3;
+class SavingAccount extends BankAccount {
+    private int freetimes = 3;
+    private double rate = 0.01;
 
-    public SavingAccount(double initalBalance, int freetimes) {
+    public SavingAccount(double initalBalance) {
         super(initalBalance);
-        this.freetimes = freetimes;
-        if (freetimes>1){
-
-        }
-        this.freetimes-=1;
     }
-    public void earnMonthlyInterest(){
 
+    @Override
+    public void deposit(double amount) {
+        if (freetimes > 0) {
+            super.deposit(amount);
+        } else {
+            super.deposit(amount - 1);
+        }
+        freetimes--;
+    }
+
+    @Override
+    public void withdraw(double amount) {
+        if (freetimes > 0) {
+            super.withdraw(amount);
+        } else {
+            super.withdraw(amount + 1);
+        }
+
+        freetimes--;
+    }
+
+    public void earnMonthlyInterest() {
+        freetimes = 3;
+        setBalance(getBalance() * 1.01);
     }
 }
