@@ -5,17 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca018d3b-bcf4-4e89-8132-2a616170fc65" name="Changes" comment="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
+      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/HouseRentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/domain/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/service/HouseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/utils/TestUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/utils/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/view/HouseView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/exercise01/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/alex/exercise01/Homework08.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/exercise01/Homework08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/alex/exercise01/Homework11.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/exercise01/Homework11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/CheckingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/CheckingAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Homework08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Homework08.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Homework13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Homework13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Person_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Person_13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/SavingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/SavingAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Student_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Student_13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Teacher_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Teacher_13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/alex/exercise01/HomeWork01.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/exercise01/HomeWork01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/HomeWork01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/HomeWork01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Student.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +50,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2JWpPWiXS9yk9oPrfuik3jbitSH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -81,23 +87,13 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="test" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\Java\Batis\Learn\com\alex\HouseRent\utils" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Homework08">
+  <component name="RunManager" selected="Application.HouseRentApp">
     <configuration name="HomeWork01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.alex.exercise01.HomeWork01" />
-      <module name="Learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.alex.exercise01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Homework05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.exercise01.Homework05" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
@@ -122,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.exercise01.Homework10" />
+    <configuration name="HouseRentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.HouseRent.HouseRentApp" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.exercise01.*" />
+          <option name="PATTERN" value="com.alex.HouseRent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,8 +131,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.exercise01.Homework13" />
+    <configuration name="TestUtility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.HouseRent.utils.TestUtility" />
+      <module name="Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alex.HouseRent.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.exercise01.test" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
@@ -150,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Homework08" />
-        <item itemvalue="Application.Homework13" />
+        <item itemvalue="Application.HouseRentApp" />
+        <item itemvalue="Application.TestUtility" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.HomeWork01" />
-        <item itemvalue="Application.Homework10" />
-        <item itemvalue="Application.Homework05" />
+        <item itemvalue="Application.Homework08" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +182,8 @@
       <workItem from="1672457561546" duration="35826000" />
       <workItem from="1672616909493" duration="22762000" />
       <workItem from="1672987405362" duration="40275000" />
-      <workItem from="1673179112877" duration="27754000" />
+      <workItem from="1673179112877" duration="38045000" />
+      <workItem from="1673492801059" duration="18435000" />
     </task>
     <task id="LOCAL-00001" summary="Homework03.java">
       <created>1672568455193</created>
@@ -238,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673259132171</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
+      <created>1673267812631</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673267812631</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,5 +293,10 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Learn$HouseRentApp.ic" NAME="HouseRentApp Coverage Results" MODIFIED="1673495944559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alex.HouseRent.*</FILTER>
+    </SUITE>
   </component>
 </project>

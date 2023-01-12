@@ -4,15 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca018d3b-bcf4-4e89-8132-2a616170fc65" name="Changes" comment="&lt;feat&gt;(&lt;location&gt;): &lt;2023/1/7/22:11&gt;">
-      <change afterPath="$PROJECT_DIR$/com/alex/exercise01/HomeWork01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/smallchange/SmallChangeSys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/smallchange/oop/SmallChangeSysApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/smallchange/oop/SmallChangeSysOOP.java" afterDir="false" />
+    <list default="true" id="ca018d3b-bcf4-4e89-8132-2a616170fc65" name="Changes" comment="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
+      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/HouseRentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/domain/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/utils/TestUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/utils/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/exercise01/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/alex/Poly01_/equals_/EqualsExercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/Poly01_/equals_/EqualsExercise01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/Poly01_/equals_/EqualsExercise01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/Poly01_/equals_/EqualsExercise01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/Poly01_/equals_/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/Poly01_/equals_/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/alex/exercise01/HomeWork01.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/exercise01/HomeWork01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/HomeWork01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/HomeWork01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Student.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,21 +80,11 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="test" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\Java\Batis\Learn\com\alex\HouseRent\utils" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.HomeWork01">
-    <configuration name="EqualsExercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.Poly01_.equals_.EqualsExercise01" />
-      <module name="Learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.alex.Poly01_.equals_.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.HouseRentApp">
     <configuration name="HomeWork01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.alex.exercise01.HomeWork01" />
       <module name="Learn" />
@@ -106,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PloyParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.Poly01_.PolyParmeter.PloyParameter" />
+    <configuration name="Homework08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.exercise01.Homework08" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.Poly01_.PolyParmeter.*" />
+          <option name="PATTERN" value="com.alex.exercise01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallChangeSys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.smallchange.SmallChangeSys" />
+    <configuration name="HouseRentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.HouseRent.HouseRentApp" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.smallchange.*" />
+          <option name="PATTERN" value="com.alex.HouseRent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +124,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallChangeSysApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.smallchange.oop.SmallChangeSysApp" />
+    <configuration name="TestUtility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.HouseRent.utils.TestUtility" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.smallchange.oop.*" />
+          <option name="PATTERN" value="com.alex.HouseRent.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.exercise01.test" />
+      <module name="Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alex.exercise01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HouseRentApp" />
+        <item itemvalue="Application.TestUtility" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.HomeWork01" />
-        <item itemvalue="Application.SmallChangeSysApp" />
-        <item itemvalue="Application.SmallChangeSys" />
-        <item itemvalue="Application.EqualsExercise01" />
-        <item itemvalue="Application.PloyParameter" />
+        <item itemvalue="Application.Homework08" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +175,8 @@
       <workItem from="1672457561546" duration="35826000" />
       <workItem from="1672616909493" duration="22762000" />
       <workItem from="1672987405362" duration="40275000" />
-      <workItem from="1673179112877" duration="777000" />
+      <workItem from="1673179112877" duration="38045000" />
+      <workItem from="1673492801059" duration="1627000" />
     </task>
     <task id="LOCAL-00001" summary="Homework03.java">
       <created>1672568455193</created>
@@ -214,7 +220,35 @@
       <option name="project" value="LOCAL" />
       <updated>1673099212409</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
+      <created>1673232262299</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673232262299</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
+      <created>1673259066755</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673259066755</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
+      <created>1673259132171</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673259132171</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
+      <created>1673267812631</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673267812631</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,10 +268,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="18-19Book-updateprice" />
     <MESSAGE value="Homework03.java" />
-    <MESSAGE value="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;" />
     <MESSAGE value="&lt;feat&gt;(&lt;location&gt;): &lt;2023/1/2/22:11&gt;" />
     <MESSAGE value="&lt;feat&gt;(&lt;location&gt;): &lt;2023/1/7/22:11&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&lt;feat&gt;(&lt;location&gt;): &lt;2023/1/7/22:11&gt;" />
+    <MESSAGE value="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

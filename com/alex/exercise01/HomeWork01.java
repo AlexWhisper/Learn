@@ -29,10 +29,12 @@ public class HomeWork01 {
         s1.study();
         s1.run();
         s1.eat();
+        Person p22=new Student("哈哈哈",10,"123");
+        System.out.println(p22.getName());
     }
 }
 class Person{
-    private String name;
+    private String name="default";
     private int age;
     private String job;
 
@@ -83,6 +85,7 @@ class Person{
 
 }
 class Student extends Person{
+    private String name="学神";
     public Student(String name, int age, String job) {
         super(name, age, job);
     }
