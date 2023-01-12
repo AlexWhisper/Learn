@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca018d3b-bcf4-4e89-8132-2a616170fc65" name="Changes" comment="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
-      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/HouseRentApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/domain/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/service/HouseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/utils/TestUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/utils/Utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/view/HouseView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/exercise01/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/alex/exercise01/HomeWork01.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/exercise01/HomeWork01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/HomeWork01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/HomeWork01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/alex/HouseRent/service/HouseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/HouseRent/service/HouseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/alex/HouseRent/view/HouseView.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/HouseRent/view/HouseView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +41,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2JWpPWiXS9yk9oPrfuik3jbitSH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -183,7 +172,7 @@
       <workItem from="1672616909493" duration="22762000" />
       <workItem from="1672987405362" duration="40275000" />
       <workItem from="1673179112877" duration="38045000" />
-      <workItem from="1673492801059" duration="18435000" />
+      <workItem from="1673492801059" duration="21383000" />
     </task>
     <task id="LOCAL-00001" summary="Homework03.java">
       <created>1672568455193</created>
@@ -255,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673267812631</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
+      <created>1673533075491</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673533075491</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,6 +1,7 @@
 package com.alex.HouseRent.service;
 
 import com.alex.HouseRent.domain.House;
+import com.alex.HouseRent.utils.Utility;
 import com.alex.HouseRent.view.HouseView;
 
 public class HouseService {
@@ -29,11 +30,7 @@ public class HouseService {
         return true;
     }
     public void enlarge(){
-
         House[] newHouses=new House[houses.length+5];
-
-
-
         for (int i = 0; i < houses.length; i++) {
             newHouses[i]=houses[i];
         }
@@ -57,5 +54,49 @@ public class HouseService {
         houses[--HouseNum]=null;
 
         return true;
+    }
+
+    public boolean search(int key) {
+        for (int i = 0; i <=HouseNum; i++) {
+            if (houses[i].getId()==key){
+                System.out.println(houses[i].toString());
+                return true;
+            }
+
+        }
+        return false;
+    }
+
+    public void update(int key) {
+        int index=-1;
+        for (int i = 0; i <=HouseNum; i++) {
+            if (houses[i].getId()==key){
+                System.out.println(houses[i].toString());
+                index=i;
+                break;
+            }
+        }
+        if (index==-1){
+            System.out.println("未找到");
+        }else {
+            System.out.println("信息已找到，请修改（无需修改的直接敲回车）");
+            System.out.println("房主：");
+            houses[index].setName(Utility.readString(6,houses[index].getName()));
+
+            System.out.println("电话：");
+            houses[index].setPhone(Utility.readString(12,houses[index].getPhone()));
+
+            System.out.println("地址：");
+            houses[index].setAddress(Utility.readString(16,houses[index].getAddress()));
+
+            System.out.println("月租：");
+            houses[index].setRent(Utility.readInt(houses[index].getRent()));
+
+            System.out.println("状态：");
+            houses[index].setState(Utility.readString(3,houses[index].getState()));
+
+
+        }
+
     }
 }

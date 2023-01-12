@@ -26,10 +26,10 @@ public class HouseView {
                     addHouse();
                     break;
                 case "2":
-                    System.out.println("查询");
+                    searchHouse();
                     break;
                 case "3":
-                    System.out.println("修改");
+                    updateHouse();
                     break;
                 case "4":
                     delHouse();
@@ -47,6 +47,26 @@ public class HouseView {
 
 
         }while(loop);
+    }
+
+    private void updateHouse() {
+        System.out.println("=============修改房屋信息=============");
+        System.out.println("请输入要修改的房屋编号（-1为取消）");
+        int key = Utility.readInt();
+        if(key==-1) return;
+        houseService.update(key);
+        System.out.println("=============修改完毕=============");
+    }
+
+    private void searchHouse() {
+        System.out.println("=============查询房屋信息=============");
+        System.out.println("请输入要查询的房屋编号（-1为取消）");
+        int key = Utility.readInt();
+        if(key==-1) return;
+        if (!(houseService.search(key))){
+            System.out.println("未找到房源");
+        }
+        System.out.println("=============查找结束=============");
     }
 
     private void exit() {
