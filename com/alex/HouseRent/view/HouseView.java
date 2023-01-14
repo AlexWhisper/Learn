@@ -63,9 +63,11 @@ public class HouseView {
         System.out.println("请输入要查询的房屋编号（-1为取消）");
         int key = Utility.readInt();
         if(key==-1) return;
-        if (!(houseService.search(key))){
+        House res=houseService.search(key);
+        if (res==null){
             System.out.println("未找到房源");
         }
+        System.out.println(res.toString());
         System.out.println("=============查找结束=============");
     }
 

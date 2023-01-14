@@ -52,51 +52,69 @@ public class HouseService {
                 houses[i]=houses[i+1];
         }
         houses[--HouseNum]=null;
-
         return true;
     }
-
-    public boolean search(int key) {
+    public House search(int key) {
         for (int i = 0; i <=HouseNum; i++) {
             if (houses[i].getId()==key){
-                System.out.println(houses[i].toString());
-                return true;
+                return houses[i];
             }
 
         }
-        return false;
+        return null;
     }
 
     public void update(int key) {
-        int index=-1;
-        for (int i = 0; i <=HouseNum; i++) {
-            if (houses[i].getId()==key){
-                System.out.println(houses[i].toString());
-                index=i;
-                break;
-            }
-        }
-        if (index==-1){
+//        int index=-1;
+//        for (int i = 0; i <= HouseNum; i++) {
+//            if (houses[i].getId()==key){
+//                System.out.println(houses[i].toString());
+//                index=i;
+//                break;
+//            }
+//        }
+        House res = search(key);
+        if (res==null){
             System.out.println("未找到");
         }else {
             System.out.println("信息已找到，请修改（无需修改的直接敲回车）");
-            System.out.println("房主：");
-            houses[index].setName(Utility.readString(6,houses[index].getName()));
+            System.out.println("房主("+res.getName()+")：");
+            res.setName(Utility.readString(6,res.getName()));
+            System.out.println("电话("+res.getPhone()+")：");
+            res.setPhone(Utility.readString(12,res.getPhone()));
 
-            System.out.println("电话：");
-            houses[index].setPhone(Utility.readString(12,houses[index].getPhone()));
+            System.out.println("地址("+res.getAddress()+")：");
+            res.setAddress(Utility.readString(16,res.getAddress()));
 
-            System.out.println("地址：");
-            houses[index].setAddress(Utility.readString(16,houses[index].getAddress()));
+            System.out.println("月租("+res.getRent()+")：");
+            res.setRent(Utility.readInt(res.getRent()));
 
-            System.out.println("月租：");
-            houses[index].setRent(Utility.readInt(houses[index].getRent()));
-
-            System.out.println("状态：");
-            houses[index].setState(Utility.readString(3,houses[index].getState()));
+            System.out.println("状态("+res.getState()+")：");
+            res.setState(Utility.readString(3,res.getState()));
 
 
         }
+//        if (index==-1){
+//            System.out.println("未找到");
+//        }else {
+//            System.out.println("信息已找到，请修改（无需修改的直接敲回车）");
+//            System.out.println("房主：");
+//            houses[index].setName(Utility.readString(6,houses[index].getName()));
+//
+//            System.out.println("电话：");
+//            houses[index].setPhone(Utility.readString(12,houses[index].getPhone()));
+//
+//            System.out.println("地址：");
+//            houses[index].setAddress(Utility.readString(16,houses[index].getAddress()));
+//
+//            System.out.println("月租：");
+//            houses[index].setRent(Utility.readInt(houses[index].getRent()));
+//
+//            System.out.println("状态：");
+//            houses[index].setState(Utility.readString(3,houses[index].getState()));
+//
+//
+//        }
 
     }
 }
