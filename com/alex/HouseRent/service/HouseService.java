@@ -8,6 +8,7 @@ public class HouseService {
     private House[] houses;
     private int HouseNum=1;
     private int idCounter=1;
+
     public HouseService(int size) {
 
         houses=new House[size];
@@ -59,7 +60,6 @@ public class HouseService {
             if (houses[i].getId()==key){
                 return houses[i];
             }
-
         }
         return null;
     }

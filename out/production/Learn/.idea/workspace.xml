@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca018d3b-bcf4-4e89-8132-2a616170fc65" name="Changes" comment="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
-      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/HouseRentApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/domain/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/utils/TestUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/HouseRent/utils/Utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/exercise01/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/codeblock__/CodeBlockDetails01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/alex/exercise01/HomeWork01.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/exercise01/HomeWork01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/HomeWork01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/HomeWork01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/com/alex/exercise01/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/alex/HouseRent/service/HouseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/HouseRent/service/HouseService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +40,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2JWpPWiXS9yk9oPrfuik3jbitSH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -63,7 +59,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
     &quot;js.buildTools.gulp.gulp_package_dir&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Project/Java/springboot-vue-bms&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alex/Desktop/springboot_vue_wms&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -84,13 +80,13 @@
       <recent name="D:\Project\Java\Batis\Learn\com\alex\HouseRent\utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HouseRentApp">
-    <configuration name="HomeWork01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.exercise01.HomeWork01" />
+  <component name="RunManager" selected="Application.CodeBlockDetails01">
+    <configuration name="CodeBlockDetails01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.codeblock__.CodeBlockDetails01" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.exercise01.*" />
+          <option name="PATTERN" value="com.alex.codeblock__.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.exercise01.Homework08" />
+    <configuration name="HomeWork01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.exercise01.HomeWork01" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
@@ -152,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CodeBlockDetails01" />
         <item itemvalue="Application.HouseRentApp" />
         <item itemvalue="Application.TestUtility" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.HomeWork01" />
-        <item itemvalue="Application.Homework08" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +172,8 @@
       <workItem from="1672616909493" duration="22762000" />
       <workItem from="1672987405362" duration="40275000" />
       <workItem from="1673179112877" duration="38045000" />
-      <workItem from="1673492801059" duration="1627000" />
+      <workItem from="1673492801059" duration="26769000" />
+      <workItem from="1673752678909" duration="2880000" />
     </task>
     <task id="LOCAL-00001" summary="Homework03.java">
       <created>1672568455193</created>
@@ -248,7 +245,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673267812631</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
+      <created>1673533075491</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673533075491</updated>
+    </task>
+    <task id="LOCAL-00012" summary="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
+      <created>1673535987970</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673535987970</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,5 +297,10 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Learn$HouseRentApp.ic" NAME="HouseRentApp Coverage Results" MODIFIED="1673495944559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alex.HouseRent.*</FILTER>
+    </SUITE>
   </component>
 </project>
