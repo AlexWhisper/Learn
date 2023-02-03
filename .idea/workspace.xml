@@ -5,141 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca018d3b-bcf4-4e89-8132-2a616170fc65" name="Changes" comment="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
-      <change afterPath="$PROJECT_DIR$/com/alex/Single_/SingleTon02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/Single_/StingTon01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/abstract_/AA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/abstract_/AbstractExercise01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/abstract_/abstract01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/abstract_/abstrct02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/enum_/EnumExercise02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/enum_/Enumeration01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/enum_/Enumeration02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/enum_/Enumeration03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/final_/Final01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/final_/FinalExercise01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/innerClassExercise/InnerClass01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/innerClassExercise/Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/innerClass_/AnonymousInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/innerClass_/InnerClass01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/innerClass_/InnerClassExercise02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/innerClass_/LocalInerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/interface_/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/interface_/DBInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/interface_/Interface02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/interface_/Interface04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/interface_/Interface05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/interface_/Interface06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/interface_/MysqlDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/interface_/OracleDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/interface_/UsbInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/interface_/camera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/interface_/interface01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/interface_/phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/_1342.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/_1672.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/_412.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/running_sum_of_1d_array_1480.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/twosum_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/annotation_/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/annotation_/C10Exercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/annotation_/Homework02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/annotation_/Homework03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/annotation_/Homework04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/annotation_/Homework05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/annotation_/Homework06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/annotation_/Homework07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/annotation_/Homework08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/annotation_/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/annotation_/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/annotation_/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/annotation_/Vehicles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/annotation_/VehiclesFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/annotation_/anno01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/alex/enum_/EnumExercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/enum_/EnumExercise02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Learn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/package1/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/package1/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/A01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/A02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/A03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/AA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Bubblesort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Cale.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Circle2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Constructor01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/HanoiTower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Homeword13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Homework01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Homework02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Homework03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Homework04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Homework05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Homework06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Homework07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Homework08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Homework09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Homework11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Homework12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Homework14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/HspMethod01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/JSB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/MethodExerse01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/MiGong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Monkey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Music.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Mytools.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Object.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Objectcon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Objectvarp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/OverLoad01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/PassObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/Person1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/T.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/TestPerson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/VarParameter01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/arrayADD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/arrayreverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/arraytest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/basicToString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/changeworld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/doc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/faber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/fun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/inputdemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/main$cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/method01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/method02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/monkeyEatPeach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/tower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/varParameterExercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/test/yanghui.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package1/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/package1/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Bubblesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/Bubblesort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Constructor01.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/Constructor01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/HanoiTower.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/HanoiTower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Homeword13.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/Homeword13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Homework01.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/Homework01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Homework02.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/Homework02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Homework03.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/Homework03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Homework04.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/Homework04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Homework05.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/Homework05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Homework06.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/Homework06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Homework07.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/Homework07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Homework08.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/Homework08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Homework09.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/Homework09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Homework11.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/Homework11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Homework12.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/Homework12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Homework14.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/Homework14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/MethodExerse01.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/MethodExerse01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/MiGong.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/MiGong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/OverLoad01.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/OverLoad01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/TestPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/TestPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/VarParameter01.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/VarParameter01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/arrayADD.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/arrayADD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/arrayreverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/arrayreverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/arraytest.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/arraytest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/basicToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/basicToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/changeworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/changeworld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/doc.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/doc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/faber.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/faber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/inputdemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/inputdemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/method01.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/method01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/method02.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/method02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/monkeyEatPeach.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/monkeyEatPeach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/varParameterExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/varParameterExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/yanghui.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/test/yanghui.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,27 +67,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "js.buildTools.gulp.gulp_package_dir": "",
-    "last_opened_file_path": "C:/Users/Alex/Desktop/springboot_vue_wms",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;js.buildTools.gulp.gulp_package_dir&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alex/Desktop/springboot_vue_wms&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="test" />
@@ -213,13 +96,13 @@
       <recent name="D:\Project\Java\Batis\Learn\com\alex\HouseRent\utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EnumExercise02">
-    <configuration name="EnumExercise02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.enum_.EnumExercise02" />
+  <component name="RunManager" selected="Application.Homework08">
+    <configuration name="Homework04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.annotation_.Homework04" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.enum_.*" />
+          <option name="PATTERN" value="com.alex.annotation_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Enumeration01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.enum_.Enumeration01" />
+    <configuration name="Homework05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.annotation_.Homework05" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.enum_.*" />
+          <option name="PATTERN" value="com.alex.annotation_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Enumeration02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.enum_.Enumeration02" />
+    <configuration name="Homework06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.annotation_.Homework06" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.enum_.*" />
+          <option name="PATTERN" value="com.alex.annotation_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Enumeration03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.enum_.Enumeration03" />
+    <configuration name="Homework07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.annotation_.Homework07" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.enum_.*" />
+          <option name="PATTERN" value="com.alex.annotation_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.alex.innerClassExercise.InnerClass01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.innerClassExercise.InnerClass01" />
+    <configuration name="Homework08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.annotation_.Homework08" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.innerClassExercise.*" />
+          <option name="PATTERN" value="com.alex.annotation_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EnumExercise02" />
-        <item itemvalue="Application.Enumeration03" />
-        <item itemvalue="Application.Enumeration02" />
-        <item itemvalue="Application.Enumeration01" />
-        <item itemvalue="Application.com.alex.innerClassExercise.InnerClass01" />
+        <item itemvalue="Application.Homework08" />
+        <item itemvalue="Application.Homework07" />
+        <item itemvalue="Application.Homework06" />
+        <item itemvalue="Application.Homework05" />
+        <item itemvalue="Application.Homework04" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +191,8 @@
       <workItem from="1673492801059" duration="26769000" />
       <workItem from="1673752678909" duration="45310000" />
       <workItem from="1674701205590" duration="8125000" />
-      <workItem from="1675294871713" duration="9500000" />
+      <workItem from="1675294871713" duration="25668000" />
+      <workItem from="1675381141397" duration="9059000" />
     </task>
     <task id="LOCAL-00001" summary="Homework03.java">
       <created>1672568455193</created>
@@ -408,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673926191866</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
+      <created>1675310619069</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675310619069</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

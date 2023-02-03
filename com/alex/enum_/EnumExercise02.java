@@ -26,6 +26,7 @@ enum Week{
     SUNDAY("星期日");
     private String name;
 
+    //public static final Week SUNDAY=new Week("xxx")
     private Week(String name) {
         this.name = name;
     }
