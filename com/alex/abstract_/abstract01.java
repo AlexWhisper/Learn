@@ -9,6 +9,7 @@ public class abstract01 {
         cat tom = new cat("tom");
         tom.speak();
         sp.speak();
+
     }
 }
 abstract class Animal{
