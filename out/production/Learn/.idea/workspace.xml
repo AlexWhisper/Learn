@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca018d3b-bcf4-4e89-8132-2a616170fc65" name="Changes" comment="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;">
-      <change afterPath="$PROJECT_DIR$/com/alex/BigInteger_/biginteger01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/Date_/Calendar01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/Date_/Homework01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/Date_/Local_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/Date_/date01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/arrays_/array02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/arrays_/array03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/arrays_/array_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/math_/math01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/system_/system01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ca018d3b-bcf4-4e89-8132-2a616170fc65" name="Changes" comment="啊吧啊吧" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +35,14 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$PROJECT_DIR$/../../../../Environments/Java/src.zip!/java/util/Calendar.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Enviroment/Java/src.zip!/java/lang/ClassLoader.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Enviroment/Java/src.zip!/java/lang/Object.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Enviroment/Java/src.zip!/java/lang/String.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Enviroment/Java/src.zip!/java/util/AbstractCollection.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Enviroment/Java/src.zip!/java/util/AbstractSet.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Enviroment/Java/src.zip!/java/util/HashMap.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Enviroment/Java/src.zip!/java/util/HashSet.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Enviroment/Java/src.zip!/java/util/Vector.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -71,34 +66,35 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
     &quot;js.buildTools.gulp.gulp_package_dir&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alex/Desktop/springboot_vue_wms&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alex/Desktop/DormitoryManagerWeb&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Debugger_Data_Views_Java&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.alex.Set_" />
       <recent name="test" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Project\Java\Batis\Learn\com\alex\HouseRent\utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Homework01">
-    <configuration name="Calendar01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.Date_.Calendar01" />
+  <component name="RunManager" selected="Application.generic04">
+    <configuration name="generic01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.generic_.generic01" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.Date_.*" />
+          <option name="PATTERN" value="com.alex.generic_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.Date_.Homework01" />
+    <configuration name="generic01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.generic_.generic01" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.Date_.*" />
+          <option name="PATTERN" value="com.alex.generic_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Local_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.Date_.Local_" />
+    <configuration name="generic01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.generic_.generic01" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.Date_.*" />
+          <option name="PATTERN" value="com.alex.generic_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="biginteger01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.BigInteger_.biginteger01" />
+    <configuration name="generic02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.generic_.generic02" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.BigInteger_.*" />
+          <option name="PATTERN" value="com.alex.generic_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +141,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="date01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.Date_.date01" />
+    <configuration name="generic02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.generic_.generic02" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.Date_.*" />
+          <option name="PATTERN" value="com.alex.generic_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generic02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.generic_.generic02" />
+      <module name="Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alex.generic_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generic02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.generic_.generic02" />
+      <module name="Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alex.generic_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generic04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.generic_.generic04" />
+      <module name="Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alex.generic_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +195,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Homework01" />
-        <item itemvalue="Application.Local_" />
-        <item itemvalue="Application.Calendar01" />
-        <item itemvalue="Application.date01" />
-        <item itemvalue="Application.biginteger01" />
+        <item itemvalue="Application.generic04" />
+        <item itemvalue="Application.generic02" />
+        <item itemvalue="Application.generic02 (1)" />
+        <item itemvalue="Application.generic01 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +224,36 @@
       <workItem from="1675294871713" duration="25668000" />
       <workItem from="1675381141397" duration="24587000" />
       <workItem from="1675664292414" duration="36077000" />
-      <workItem from="1675947684773" duration="4174000" />
+      <workItem from="1675947684773" duration="25236000" />
+      <workItem from="1676031700647" duration="542000" />
+      <workItem from="1676032286967" duration="2314000" />
+      <workItem from="1676071523679" duration="2859000" />
+      <workItem from="1676247742753" duration="840000" />
+      <workItem from="1676248845981" duration="70000" />
+      <workItem from="1676248970645" duration="900000" />
+      <workItem from="1676250813361" duration="844000" />
+      <workItem from="1676251716530" duration="8773000" />
+      <workItem from="1676274434731" duration="4896000" />
+      <workItem from="1676293739864" duration="1197000" />
+      <workItem from="1676302029729" duration="1034000" />
+      <workItem from="1676332787432" duration="464000" />
+      <workItem from="1676333511041" duration="2388000" />
+      <workItem from="1676345540618" duration="2241000" />
+      <workItem from="1676359456291" duration="775000" />
+      <workItem from="1676360511166" duration="52000" />
+      <workItem from="1676360936399" duration="785000" />
+      <workItem from="1676370625467" duration="4491000" />
+      <workItem from="1676379856684" duration="12471000" />
+      <workItem from="1676439587889" duration="2192000" />
+      <workItem from="1676444079287" duration="1865000" />
+      <workItem from="1676506759001" duration="1523000" />
+      <workItem from="1676508324576" duration="3892000" />
+      <workItem from="1676520333499" duration="800000" />
+      <workItem from="1676538993882" duration="3970000" />
+      <workItem from="1676603999332" duration="576000" />
+      <workItem from="1676604657848" duration="59000" />
+      <workItem from="1676617909686" duration="4134000" />
+      <workItem from="1676634723474" duration="489000" />
     </task>
     <task id="LOCAL-00001" summary="Homework03.java">
       <created>1672568455193</created>
@@ -318,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675907869070</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="啊吧啊吧">
+      <created>1675997437154</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1675997437154</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,7 +411,8 @@
     <MESSAGE value="&lt;feat&gt;(&lt;location&gt;): &lt;2023/1/2/22:11&gt;" />
     <MESSAGE value="&lt;feat&gt;(&lt;location&gt;): &lt;2023/1/7/22:11&gt;" />
     <MESSAGE value="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&lt;feat&gt;(&lt;location&gt;): &lt;none&gt;" />
+    <MESSAGE value="啊吧啊吧" />
+    <option name="LAST_COMMIT_MESSAGE" value="啊吧啊吧" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -350,6 +421,25 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/com/alex/Date_/Homework02.java</url>
+          <line>41</line>
+          <properties class="com.alex.Date_.Homework02" method="isDigital">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/alex/Set_/set01.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/alex/Map_/map03.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
