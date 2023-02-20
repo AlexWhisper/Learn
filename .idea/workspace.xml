@@ -4,20 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca018d3b-bcf4-4e89-8132-2a616170fc65" name="Changes" comment="non">
-      <change afterPath="$PROJECT_DIR$/com/alex/draw/ChineseFlag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/draw/drawCircle02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/draw/drawTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/event_/MyFram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/event_/MyPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/thread_/thread01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/thread_/thread02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/thread_/thread03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/thread_/thread04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/thread_/thread05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/_array01.java" afterDir="false" />
+    <list default="true" id="ca018d3b-bcf4-4e89-8132-2a616170fc65" name="Changes" comment="多线程学习">
+      <change afterPath="$PROJECT_DIR$/com/alex/thread_/homework01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/thread_/homework02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/thread_/homework03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/thread_/thread06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/thread_/thread07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/thread_/thread08.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/alex/thread_/thread05.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/alex/thread_/thread05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,9 +100,9 @@
       <recent name="D:\Project\Java\Batis\Learn\com\alex\HouseRent\utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.thread05">
-    <configuration name="thread02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.thread_.thread02" />
+  <component name="RunManager" selected="Application.homework03">
+    <configuration name="homework01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.thread_.homework01" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="thread03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.thread_.thread03" />
+    <configuration name="homework01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.thread_.homework01" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
@@ -132,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="thread04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.thread_.thread04" />
+    <configuration name="homework01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.thread_.homework01" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
@@ -145,8 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="thread05 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.thread_.thread05" />
+    <configuration name="homework02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.thread_.homework02" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
@@ -158,8 +153,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="thread05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.thread_.thread05" />
+    <configuration name="homework03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.thread_.homework03" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
@@ -173,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.thread05" />
-        <item itemvalue="Application.thread05 (1)" />
-        <item itemvalue="Application.thread04" />
-        <item itemvalue="Application.thread03" />
-        <item itemvalue="Application.thread02" />
+        <item itemvalue="Application.homework03" />
+        <item itemvalue="Application.homework02" />
+        <item itemvalue="Application.homework01 (2)" />
+        <item itemvalue="Application.homework01 (1)" />
+        <item itemvalue="Application.homework01" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +232,7 @@
       <workItem from="1676777159556" duration="755000" />
       <workItem from="1676790871438" duration="2476000" />
       <workItem from="1676794505217" duration="48000" />
-      <workItem from="1676806622262" duration="7713000" />
+      <workItem from="1676806622262" duration="23384000" />
     </task>
     <task id="LOCAL-00001" summary="Homework03.java">
       <created>1672568455193</created>
@@ -393,7 +388,28 @@
       <option name="project" value="LOCAL" />
       <updated>1676773313069</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="学习java绘图">
+      <created>1676852671173</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1676852671173</updated>
+    </task>
+    <task id="LOCAL-00024" summary="leetcode">
+      <created>1676852708781</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1676852708781</updated>
+    </task>
+    <task id="LOCAL-00025" summary="多线程学习">
+      <created>1676852731366</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1676852731366</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,7 +436,10 @@
     <MESSAGE value="又刷了两道" />
     <MESSAGE value="完成泛型的学习" />
     <MESSAGE value="non" />
-    <option name="LAST_COMMIT_MESSAGE" value="non" />
+    <MESSAGE value="学习java绘图" />
+    <MESSAGE value="leetcode" />
+    <MESSAGE value="多线程学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程学习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -428,6 +447,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalThreadStateException" package="java.lang" />
+          <option name="timeStamp" value="7" />
         </breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/com/alex/Date_/Homework02.java</url>
