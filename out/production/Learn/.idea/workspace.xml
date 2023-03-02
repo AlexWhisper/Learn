@@ -4,16 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca018d3b-bcf4-4e89-8132-2a616170fc65" name="Changes" comment="non">
-      <change afterPath="$PROJECT_DIR$/com/alex/draw/ChineseFlag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/draw/drawCircle02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/draw/drawTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/event_/MyFram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/event_/MyPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/alex/thread_/thread01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/_array01.java" afterDir="false" />
+    <list default="true" id="ca018d3b-bcf4-4e89-8132-2a616170fc65" name="Changes" comment="完成了多线程基础的学习">
+      <change afterPath="$PROJECT_DIR$/com/alex/file_/BufferedWriter_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/file_/bufferedInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/file_/bufferedReader_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/file_/creatFile01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/file_/directory01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/file_/fileCopy01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/file_/fileCopy02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/file_/fileInfo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/file_/fileInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/file_/fileInputStream01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/file_/fileOutputSteam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/file_/fileReader01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/file_/inputStreamReader01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/alex/file_/objectOutputSteam01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Learn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/Learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/Learn.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +66,14 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Enviroment/apache-maven-3.8.6-bin/apache-maven-3.8.6" />
+        <option name="userSettingsFile" value="D:\Enviroment\apache-maven-3.8.6-bin\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -70,13 +87,17 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
     &quot;js.buildTools.gulp.gulp_package_dir&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alex/Desktop/DormitoryManagerWeb&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Project/Java/library-management-main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -101,13 +122,13 @@
       <recent name="D:\Project\Java\Batis\Learn\com\alex\HouseRent\utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.thread01">
-    <configuration name="CatDrawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.draw.CatDrawing" />
+  <component name="RunManager" selected="Application.inputStreamReader01">
+    <configuration name="BufferedWriter_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.file_.BufferedWriter_" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.draw.*" />
+          <option name="PATTERN" value="com.alex.file_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.event_.MyFram" />
+    <configuration name="bufferedInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.file_.bufferedInputStream" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.event_.*" />
+          <option name="PATTERN" value="com.alex.file_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="drawTest01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.draw.drawTest01" />
+    <configuration name="bufferedReader_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.file_.bufferedReader_" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.draw.*" />
+          <option name="PATTERN" value="com.alex.file_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="drawTest01 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.draw.drawTest01" />
+    <configuration name="inputStreamReader01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.file_.inputStreamReader01" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.draw.*" />
+          <option name="PATTERN" value="com.alex.file_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="thread01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.thread_.thread01" />
+    <configuration name="objectOutputSteam01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.file_.objectOutputSteam01" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.thread_.*" />
+          <option name="PATTERN" value="com.alex.file_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.thread01" />
-        <item itemvalue="Application.MyFram" />
-        <item itemvalue="Application.drawTest01 (3)" />
-        <item itemvalue="Application.drawTest01 (2)" />
-        <item itemvalue="Application.CatDrawing" />
+        <item itemvalue="Application.inputStreamReader01" />
+        <item itemvalue="Application.objectOutputSteam01" />
+        <item itemvalue="Application.bufferedInputStream" />
+        <item itemvalue="Application.BufferedWriter_" />
+        <item itemvalue="Application.bufferedReader_" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +254,16 @@
       <workItem from="1676777159556" duration="755000" />
       <workItem from="1676790871438" duration="2476000" />
       <workItem from="1676794505217" duration="48000" />
-      <workItem from="1676806622262" duration="278000" />
+      <workItem from="1676806622262" duration="24399000" />
+      <workItem from="1677116889157" duration="4021000" />
+      <workItem from="1677222740477" duration="4655000" />
+      <workItem from="1677236860738" duration="2375000" />
+      <workItem from="1677242079498" duration="2583000" />
+      <workItem from="1677334223565" duration="598000" />
+      <workItem from="1677464250544" duration="53000" />
+      <workItem from="1677466583125" duration="1261000" />
+      <workItem from="1677632838338" duration="4502000" />
+      <workItem from="1677660558892" duration="1011000" />
     </task>
     <task id="LOCAL-00001" summary="Homework03.java">
       <created>1672568455193</created>
@@ -389,7 +419,35 @@
       <option name="project" value="LOCAL" />
       <updated>1676773313069</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="学习java绘图">
+      <created>1676852671173</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1676852671173</updated>
+    </task>
+    <task id="LOCAL-00024" summary="leetcode">
+      <created>1676852708781</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1676852708781</updated>
+    </task>
+    <task id="LOCAL-00025" summary="多线程学习">
+      <created>1676852731366</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1676852731366</updated>
+    </task>
+    <task id="LOCAL-00026" summary="完成了多线程基础的学习">
+      <created>1676892243592</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1676892243592</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -416,7 +474,11 @@
     <MESSAGE value="又刷了两道" />
     <MESSAGE value="完成泛型的学习" />
     <MESSAGE value="non" />
-    <option name="LAST_COMMIT_MESSAGE" value="non" />
+    <MESSAGE value="学习java绘图" />
+    <MESSAGE value="leetcode" />
+    <MESSAGE value="多线程学习" />
+    <MESSAGE value="完成了多线程基础的学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成了多线程基础的学习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -424,6 +486,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalThreadStateException" package="java.lang" />
+          <option name="timeStamp" value="7" />
         </breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/com/alex/Date_/Homework02.java</url>
